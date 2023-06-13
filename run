@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#Execute main script 
+python src/model.py
